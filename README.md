@@ -25,7 +25,7 @@ Running the notebook will create the following files in the working directory:
 - `quantitative_data.csv` – cleaned quantitative dataset with renamed columns (Likert mapped to 1–7, numeric columns parsed)
 - `qualitative_data.xlsx` – qualitative/free-text fields extracted
 - `descriptives_all_variables.xlsx` – demographics + background descriptives (categorical n/% and numeric M/SD/min/max)
-- `reults.png` – exported figure (results diagram)
+- `reults_diagram.png` – exported figure (results diagram)
 
 
 ---
