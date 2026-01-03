@@ -1,4 +1,4 @@
-# Bachelor Thesis – Statistics Reproduction Guide
+# Bachelor Thesis LLM – Statistics Reproduction Guide
 
 This repository contains the raw survey export and the analysis notebook used to generate all quantitative results (descriptives, reliability, rmANOVA, post-hoc tests) reported in the thesis.
 
@@ -25,7 +25,8 @@ Running the notebook will create the following files in the working directory:
 - `quantitative_data.csv` – cleaned quantitative dataset with renamed columns (Likert mapped to 1–7, numeric columns parsed)
 - `qualitative_data.xlsx` – qualitative/free-text fields extracted
 - `descriptives_all_variables.xlsx` – demographics + background descriptives (categorical n/% and numeric M/SD/min/max)
-- `reults_diagram.png` – exported figure (results diagram)
+- `results_diagram.png` – exported figure (results diagram)
+- `excluded_by_check.csv` – list of participant IDs excluded by attention or manipulation checks
 
 
 ---

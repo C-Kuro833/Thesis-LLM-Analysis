@@ -1,0 +1,33 @@
+ResponseId,Verbal_Benevolence_1,Verbal_Benevolence_2,Verbal_Benevolence_3,Verbal_Integrity_1,Verbal_Integrity_2,Verbal_Integrity_3,Verbal_Competence_1,Verbal_Competence_2,Verbal_Competence_3,Verbal_Competence_4,Verbal_Usability_1,Verbal_Usability_2,Verbal_Usability_3,Num_Benevolence_1,Num_Benevolence_2,Num_Benevolence_3,Num_Integrity_1,Num_Integrity_2,Num_Integrity_3,Num_Competence_1,Num_Competence_2,Num_Competence_3,Num_Competence_4,Num_Usability_1,Num_Usability_2,Num_Usability_3,Vis_Benevolence_1,Vis_Benevolence_2,Vis_Benevolence_3,Vis_Integrity_1,Vis_Integrity_2,Vis_Integrity_3,Vis_Competence_1,Vis_Competence_2,Vis_Competence_3,Vis_Competence_4,Vis_Usability_1,Vis_Usability_2,Vis_Usability_3,Age,Gender,Education_Level,Usage_Frequency,LLM_Experience_Self_Report,Frequency_of_AI_Errors,General_AI_Trust,Want_Indicators_YesNo
+R_8rNxhnmcwViUEp7,4,4,4,5,5,3,3,4,3,3,3,3,5,7,6,7,7,7,7,6,6,6,6,7,7,6,6,4,5,7,6,7,6,5,6,5,5,5,7,21,Male,High School,Daily,9,7,4,Yes
+R_2cBJ9lvEgaVsSof,4,4,4,4,4,4,2,2,4,4,2,2,6,4,4,4,3,3,4,5,5,5,2,5,5,5,4,4,4,4,4,4,4,4,5,4,2,2,5,34,Male,Master's degree or higher,Daily,6,3,6,Indifferent
+R_86IdscAJjXOSich,6,5,3,6,5,6,3,5,5,4,6,4,5,5,4,5,6,5,5,4,6,6,7,5,6,5,3,6,4,4,6,3,5,5,5,3,7,5,6,24,Male,Bachelor's degree,Daily,8,7,9,Yes
+R_22DIrYtyyAaQiPq,7,7,6,7,7,7,7,7,7,7,7,7,7,6,6,4,6,6,6,6,6,5,5,7,6,7,6,6,5,6,7,6,5,6,6,7,4,3,7,44,Male,High School,Daily,9,4,9,Yes
+R_8mhmkff2t53JiVk,5,4,5,5,5,5,3,3,3,3,3,3,3,4,6,4,5,6,5,6,5,5,4,7,7,7,4,5,4,5,5,4,2,2,3,3,2,1,4,40,Male,Bachelor's degree,Daily,7,5,6,Yes
+R_3fIhZsXDTTn4TSA,2,1,4,3,4,4,2,3,3,2,3,2,7,5,2,4,6,6,5,6,6,6,6,7,6,3,5,5,4,7,6,5,5,7,6,6,6,6,7,44,Male,High School,Daily,6,6,5,Yes
+R_8B3g4H2w5hYy8ZL,4,5,5,3,5,5,4,5,3,3,4,4,6,5,5,4,6,6,6,6,6,4,5,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,36,Male,Bachelor's degree,Several times a week,7,8,4,Yes
+R_5U2EeCThmF4rYul,5,5,5,5,5,5,5,5,5,5,5,5,4,6,6,7,7,7,7,7,7,7,7,6,7,7,5,5,5,5,5,5,5,6,5,5,5,5,5,39,Male,High School,Several times a week,7,3,7,Yes
+R_3fdnhJVve8QWaGp,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,42,Female,Master's degree or higher,Daily,6,1,8,Yes
+R_25tPfpmkCYOtW7I,4,4,4,4,4,4,2,2,3,2,2,2,5,4,5,4,4,6,5,5,6,6,5,6,6,6,4,4,4,4,4,4,2,2,2,3,2,2,5,51,Female,Bachelor's degree,Several times a week,6,4,7,Yes
+R_2ow2QrLPyO62AHt,3,4,2,4,3,4,2,2,3,3,4,4,7,4,4,4,5,6,4,4,5,6,4,6,5,7,4,4,4,5,5,5,5,5,5,4,5,5,7,41,Female,High School,Several times a week,5,9,1,Yes
+R_2obDGhYFrHsv1N7,3,3,3,3,3,4,3,3,3,3,3,3,2,4,3,3,5,5,5,5,4,5,5,5,5,5,5,5,4,5,5,6,6,6,5,5,6,6,6,37,Male,Master's degree or higher,Rarely,4,7,2,Yes
+R_7HXKO5ToTOmrsS5,6,6,6,7,7,6,5,5,6,6,6,6,7,7,7,6,6,7,7,6,6,7,7,7,7,7,6,6,5,6,7,6,5,5,6,6,6,6,6,32,Male,Bachelor's degree,Several times a week,5,4,6,Yes
+R_5BVlkMUPfJXCzc7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,7,7,49,Female,Master's degree or higher,Daily,10,1,8,Yes
+R_2W5G99t42XYCff3,6,6,5,6,5,5,5,6,5,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,6,6,42,Male,Master's degree or higher,Several times a week,8,7,6,Yes
+R_72FMSR5hyIu5SWb,6,7,6,7,7,6,7,7,7,7,7,7,7,6,7,5,6,6,6,6,6,6,7,7,6,6,5,7,6,6,6,5,3,5,5,5,3,3,5,23,Female,Bachelor's degree,Daily,7,6,7,Yes
+R_2rrPOOf913Wv4TD,2,3,4,3,5,6,3,3,3,2,3,2,2,6,6,3,6,6,5,6,6,5,6,6,6,6,3,3,3,3,5,3,5,2,3,3,3,3,2,46,Male,Bachelor's degree,Daily,7,6,5,Yes
+R_8EWGaJwy4zMkAxB,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,7,7,6,7,7,7,7,7,6,6,5,6,5,3,3,4,3,4,4,3,3,4,3,43,Female,Bachelor's degree,Daily,7,5,8,Yes
+R_7aeWYYFXOqAIrPH,5,5,4,6,6,5,4,6,5,5,6,6,7,4,6,4,6,6,5,5,5,6,5,7,6,6,5,5,3,4,4,4,4,3,3,4,2,4,3,62,Female,High School,Daily,8,2,7,Yes
+R_8EhXBEGgFEzp9QJ,3,3,3,3,3,3,3,3,2,3,3,1,5,3,3,3,5,5,5,5,5,5,5,5,5,5,3,3,3,3,3,3,5,4,5,3,5,3,5,29,Female,Master's degree or higher,Daily,8,7,5,Yes
+R_8gxkCwwnp9F2d9f,5,4,4,5,5,4,2,3,4,4,2,2,3,4,6,4,6,7,6,6,7,6,6,7,7,7,4,4,4,6,5,6,6,6,5,5,6,5,6,31,Female,Vocational training,Daily,7,5,5,Yes
+R_2DNStVub90FC4cf,4,4,4,6,6,5,5,5,5,5,6,5,4,6,7,5,6,6,6,6,5,6,6,6,6,6,6,7,5,6,6,6,6,5,6,6,6,6,6,38,Male,Master's degree or higher,Daily,8,5,7,Yes
+R_202ysd6n1NdKbE9,6,6,4,6,7,6,7,6,6,6,7,7,6,5,6,4,6,6,6,5,5,5,5,6,5,5,5,6,4,6,6,6,6,6,5,7,5,5,5,62,Male,High School,About once a week,6,3,8,Yes
+R_3L298ickdoc4Twm,6,6,6,6,6,6,6,6,6,6,6,6,6,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,4,4,5,4,35,Female,High School,Several times a week,8,5,5,Yes
+R_70Pci7pUNT29jcu,6,6,6,6,6,6,6,5,5,6,5,6,7,5,5,5,6,6,7,6,7,6,6,5,5,6,6,6,6,7,5,5,7,5,6,7,4,3,3,45,Male,Master's degree or higher,Several times a week,7,3,8,Indifferent
+R_2opgICLOcCDcNUE,6,6,6,6,5,5,5,5,5,5,4,5,6,5,6,5,6,5,5,5,6,5,5,6,6,5,5,5,5,5,6,4,4,5,5,5,3,4,5,21,Male,Bachelor's degree,Rarely,3,4,3,Yes
+R_2g0wPmVT1ON94Gd,5,5,5,3,5,6,5,6,6,4,6,6,6,6,6,6,6,6,6,7,6,6,7,6,6,7,5,5,6,6,6,5,6,4,6,6,6,6,6,62,Male,Bachelor's degree,Several times a week,7,2,8,Yes
+R_6umde64rswM6p7H,7,6,5,7,6,6,5,7,5,5,6,6,6,6,6,6,7,7,6,6,6,6,6,7,7,7,6,6,6,4,4,5,5,5,5,5,5,6,5,53,Female,Bachelor's degree,Daily,6,4,7,Yes
+R_3YJSZIuXUASnl7m,5,5,6,6,7,6,6,6,6,5,7,6,6,4,3,3,5,5,5,5,5,5,5,6,5,6,5,4,4,6,5,6,6,5,5,5,5,3,6,49,Female,Bachelor's degree,Daily,7,8,7,Yes
+R_3hEX62R9TJZP9nB,6,6,4,6,6,4,6,6,6,6,6,6,7,5,6,5,5,5,6,6,5,6,6,5,5,6,4,6,4,6,6,4,7,7,6,7,7,7,7,36,Male,Master's degree or higher,Daily,9,5,8,Indifferent
+R_1QFUb4Q3aCBqw9R,6,6,5,7,6,6,7,6,7,6,6,7,7,5,7,7,7,6,6,6,6,6,6,6,6,6,4,5,4,5,3,5,4,5,5,4,5,3,3,44,Male,Master's degree or higher,Several times a week,7,4,7,Yes
+R_6U6eTHN2QnKTWw5,6,5,5,6,6,6,6,6,6,6,7,7,7,5,5,5,6,6,5,6,5,5,5,6,3,5,6,5,5,6,6,6,6,6,6,5,6,6,5,19,Female,High School,Several times a week,6,3,6,Indifferent
